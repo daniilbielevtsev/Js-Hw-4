@@ -1,6 +1,6 @@
-let textField1 = "hi";
-let textField2 = "hello";
-if (textField1 && textField2) {
+let text1 = "hi";
+let text2 = "hello";
+if (text1 && text2) {
   console.log("Обидва поля заповнені");
 } else {
   console.log("Не всі поля заповнені");
